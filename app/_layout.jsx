@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { View } from 'react-native';
 import DisplayApp from './Components/DisplayApp';
 
-function App() {
+function Layout() {
     const [number, setNumber] = useState(0);
 
     const decreaseNumber = () => {
@@ -19,4 +19,4 @@ function App() {
     );
 }
 
-export default App;
+export default Layout;
