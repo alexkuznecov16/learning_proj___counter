@@ -1,3 +1,0 @@
-[build]
-  command = "npx expo export:web"
-  publish = "./app/_layout.jsx" # Ваш путь к публикации
