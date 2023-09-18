@@ -7,6 +7,22 @@
         },
         "plugins": ["expo-router"],
         "name": "learning_proj",
-        "slug": "learning_proj"
+        "slug": "learning_proj",
+        "extra": {
+            "router": {
+                "origin": false
+            },
+            "eas": {
+                "projectId": "bbf0bd30-107d-4641-a01d-f1be90349245"
+            }
+        },
+        "runtimeVersion": {
+            "policy": "appVersion"
+        },
+        "updates": {
+            "url": "https://u.expo.dev/bbf0bd30-107d-4641-a01d-f1be90349245"
+        },
+        "android": {},
+        "ios": {}
     }
 }
